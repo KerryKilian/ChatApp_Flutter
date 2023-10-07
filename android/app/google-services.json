@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804512032848",
+    "project_id": "chatapp-5c589",
+    "storage_bucket": "chatapp-5c589.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804512032848:android:ed33e7d8b5caf647978955",
+        "android_client_info": {
+          "package_name": "com.kerrykilian.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804512032848-a5de95g4ofdopopg95ff54t35jnpt9cd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6FHhxX-08_Fa7ICOmEFBZrIPs0a-_lrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804512032848-a5de95g4ofdopopg95ff54t35jnpt9cd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
